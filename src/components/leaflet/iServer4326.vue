@@ -7,7 +7,7 @@
     name: 'iServer4326',
     data() {
       return {
-
+        msg: 'Hello'
       }
     }
   }
